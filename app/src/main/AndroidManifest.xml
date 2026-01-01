@@ -22,7 +22,8 @@
 
         <activity
             android:name=".ui.about.AboutActivity"
-            android:exported="false" />
+            android:exported="false" 
+            android:label="Tentang Aplikasi" />
 
         <activity
             android:name=".ui.list.ItemListActivity"
