@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Lostfound" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <!-- Set brand color for components like buttons -->
+        <item name="colorPrimary">#2196F3</item>
+
+    </style>
+
+    <style name="Theme.Lostfound" parent="Base.Theme.Lostfound" />
+
+    <style name="Theme.Lostfound.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:background">#2196F3</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Theme.Lostfound.PopupOverlay" parent="ThemeOverlay.AppCompat.Dark" />
+    
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053551706950",
+    "project_id": "kampuslostfound",
+    "storage_bucket": "kampuslostfound.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053551706950:android:4d2783a6341c157bb61b47",
+        "android_client_info": {
+          "package_name": "com.alpan.lostfound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdyGKuTXTPZHQ43GoEzeLXM-Y2z9ZX4nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
